@@ -10,7 +10,7 @@ The instructions for this assignment were to:
     - Distorting data through graphic forms.
 3) For each mechanism identified, an explanation of how it was used to mislead.
 
-The following visual Figure 1, that I have for analysis was obtained from [businessinsider.com](https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6#welcome-to-fox-where-the-line-graphs-are-made-up-and-the-points-dont-matter-12) depicting an issue regarding job loss presented from Fox News.
+The following visual Figure 1, that I have for analysis was obtained from [businessinsider.com](https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6#fox-news-really-got-this-wrong-first-of-all-if-we-lost-15-million-jobs-in-one-quarter-this-country-would-be-a-lot-worse-off-than-it-actually-was-the-points-dont-actually-follow-a-straight-line-something-you-dont-notice-because-there-isnt-actually-a-y-axis-the-four-points-are-also-not-equidistant-with-time-11) depicting an issue regarding job loss presented from Fox News.
 
 ![Figure 1](https://github.com/kaichua/Graphics-Lies-Misleading-Visuals/blob/master/Figure_1.PNG)
 
@@ -34,7 +34,7 @@ The closest I could find was Figure 2, which fits the description. The visual sh
 
 At a glance, the highest possible y-axis was only at 9 million with the gross job losses peaking at around 8.8 million in the second quarter of 2001. The figures indicated in Figure 1 was nowhere to be found.
 
-Hence, I proceeded to perform a reverse image search on Figure 1, and discovered that the title was misrepresented and instead refer to the "Total Unemployed" shown in Figure 3.
+Hence, I proceeded to perform a reverse image search on Figure 1, and discovered that the title was misrepresented and instead refer to the "Total Unemployed" obtained from a [blog](https://www.copinthehood.com/2010/06/right-wing-lies-iii.html) shown in Figure 3.
 
 ![Figure 3](https://github.com/kaichua/Graphics-Lies-Misleading-Visuals/blob/master/Figure_3.PNG)
 
